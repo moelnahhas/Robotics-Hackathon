@@ -7,6 +7,8 @@ It was a rewarding and fast-paced challenge, and we were proud to have built a r
 
 📸 See the robot we built below.
 ![Image](https://github.com/user-attachments/assets/121a3480-04f8-45d4-866e-78f8e1db9277)
+
+
 https://github.com/user-attachments/assets/3027aa84-1c75-48fb-8821-a0639debd01c
 
 
